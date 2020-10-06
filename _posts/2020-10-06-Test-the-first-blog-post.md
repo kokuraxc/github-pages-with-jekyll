@@ -1,3 +1,8 @@
+---
+title: "Test first blog post"
+date: 2020-10-06
+---
+
 Hello all!
 
 ```python
